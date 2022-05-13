@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/tmlge/source/repos/DoubleTrouble/DoubleTrouble/Content/Music/RussianRoulette8bit.mp3</SourceFile>
+  <SourceTime>2018-12-09T21:15:43.8954995-05:00</SourceTime>
+  <DestFile>C:/Users/tmlge/source/repos/DoubleTrouble/DoubleTrouble/Content/bin/Windows/Music/RussianRoulette8bit.xnb</DestFile>
+  <DestTime>2022-05-10T13:54:50.3078375-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T12:17:54-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T12:17:54-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/tmlge/source/repos/DoubleTrouble/DoubleTrouble/Content/bin/Windows/Music/RussianRoulette8bit.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
